@@ -1,0 +1,16 @@
+{
+  "name": "dev.purrnet.material-icons",
+  "version": "1.0.0",
+  "author": {
+    "name": "PurrNet Team",
+    "url": "https://purrnet.dev/"
+  },
+  "description": "Show thumbnail for materials in project list view.",
+  "displayName": "Material Icons",
+  "hideInEditor": true,
+  "keywords": [
+    "purrnet",
+    "material",
+    "icons"
+  ]
+}
